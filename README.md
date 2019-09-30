@@ -1,0 +1,2 @@
+# gotopath.github.io
+gotopath
