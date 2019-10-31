@@ -1,2 +1,1 @@
-# gotopath.github.io
-gotopath
+Hi :)
